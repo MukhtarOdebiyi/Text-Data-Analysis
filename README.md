@@ -25,7 +25,7 @@ This project aims to analyze YouTube comments to determine the sentiment polarit
 
 ## Data Sources
 
-The primary data source used in this project is a CSV file containing YouTube comments. The data includes various fields such as comment text, likes, and the number of replies to each comment. Full data source at https://drive.google.com/file/d/1acUMXAGhctb1d_rRUUBqxDJsav_khTSW/view?usp=drive_link
+The primary data source used in this project is a CSV file containing YouTube comments. The data includes various fields such as comment text, likes, and the number of replies to each comment. https://drive.google.com/file/d/1acUMXAGhctb1d_rRUUBqxDJsav_khTSW/view?usp=drive_link
 
 ## Installation
 
